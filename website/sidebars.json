@@ -1,0 +1,8 @@
+{
+  "docs": {
+    "Installation Guide": ["doc1"],
+    "Getting Started Guide": ["doc2"],
+    "Security Guide": ["doc3"],
+    "Software Requirements": ["doc4"]
+  }
+}

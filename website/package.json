@@ -1,0 +1,22 @@
+{
+  "scripts": {
+    "examples": "docusaurus-examples",
+    "start": "docusaurus-start",
+    "build": "docusaurus-build",
+    "publish-gh-pages": "docusaurus-publish",
+    "write-translations": "docusaurus-write-translations",
+    "version": "docusaurus-version",
+    "rename-version": "docusaurus-rename-version"
+  },
+  "devDependencies": {
+    "docusaurus": "^1.14.3"
+  },
+  "dependencies": {
+    "@docusaurus/core": "^2.0.0-alpha.40",
+    "@docusaurus/theme-classic": "^2.0.0-alpha.37",
+    "@docusaurus/theme-live-codeblock": "^2.0.0-alpha.39",
+    "algoliasearch": "^3.35.1",
+    "react-instantsearch": "^6.1.0",
+    "react-native": "^0.61.5"
+  }
+}

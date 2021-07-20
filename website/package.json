@@ -17,6 +17,6 @@
     "@docusaurus/theme-live-codeblock": "^2.0.0-alpha.39",
     "algoliasearch": "^3.35.1",
     "react-instantsearch": "^6.1.0",
-    "react-native": "^0.61.5"
+    "react-native": "^0.62.3"
   }
 }
